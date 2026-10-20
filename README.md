@@ -65,3 +65,9 @@ The dashboard includes:
 - Top products by revenue
 - Customers by segment
 - Interactive slicers for year, country, and customer segment
+
+## Project Article
+
+Want to see how I approached the analysis step by step?
+
+[Read the full case study on Hashnode] https://dalya.hashnode.dev/what-i-learned-from-analyzing-more-than-1m-online-retail-transactions
